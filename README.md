@@ -12,4 +12,5 @@ Physics visualization of a series circuit using Python turtle.
 ## Run
 
 ```bash
-python3 circuit_sim_v2.py
+python3 circuit_sim.py
+
