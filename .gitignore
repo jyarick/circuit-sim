@@ -1,0 +1,38 @@
+
+---
+
+# .gitignore
+
+```gitignore
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# macOS
+.DS_Store
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Matplotlib temp files
+*.png
+*.svg
